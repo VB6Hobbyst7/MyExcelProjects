@@ -68,3 +68,9 @@ Now Use the procedure you learned in class to separate all of the tweets into wo
 
 6: Linear Regression - Cricket Data: (CricketsRegression.xlsx)
 Find the slope and intercept of the cricket data.
+
+7: LCMS Games Data Since 2011: (LCMS Games Data Since 2011.xlsx)
+Fun leisure time project mining some data from the Luther College Men's Soccer team.
+
+8: LCWS Games Data Since 2011: (LCWS Games Data Since 2011.xlsx)
+Fun leisure time project mining some data from the Luther College Women's Soccer team.
