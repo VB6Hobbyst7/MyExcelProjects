@@ -74,3 +74,12 @@ Fun leisure time project mining some data from the Luther College Men's Soccer t
 
 8: LCWS Games Data Since 2011: (LCWS Games Data Since 2011.xlsx)
 Fun leisure time project mining some data from the Luther College Women's Soccer team using Pivot Tables.
+
+9: Linear Regression - Pizza/Price/Bias Term (RegressionModel.xlsx)
+Predict values using mathematical constraints; Predict values using solver; Use Bias Term.
+
+10: Collaborative filtering: (MoviesResponses.xlsx)
+OFFSET function to predict values using collaborative filtering idea.
+
+11: Cleaning data;Rescaling Data; One hot encoding: (CaliforniaHousingBroseghini.xlsx)
+Use California Housing data to work on the skills listed above.
